@@ -1,4 +1,4 @@
-# complex_farm_project
+# DrawImages
 
 The code uses Python's Turtle module to create a canvas image as dots, converting it to grayscale, creating a matrix, and iterating over the matrix.
 
