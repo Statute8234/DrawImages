@@ -1,6 +1,10 @@
 # DrawImages
-
 The code uses Python's Turtle module to create a canvas image as dots, converting it to grayscale, creating a matrix, and iterating over the matrix.
+
+[![Static Badge](https://img.shields.io/badge/turtle-orange)](https://pypi.org/project/turtle/)
+[![Static Badge](https://img.shields.io/badge/random-blue)](https://pypi.org/project/random/)
+[![Static Badge](https://img.shields.io/badge/PIL-purple)](https://pypi.org/project/PIL/)
+[![Static Badge](https://img.shields.io/badge/numpy-yellow)](https://pypi.org/project/numpy/)
 
 ## Table of Contents
 
